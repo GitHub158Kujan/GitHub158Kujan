@@ -1,8 +1,6 @@
-![Header](./github-header-image.png) 
-
 <h1 align="center">Hi 👋, I'm Kujan</h1>
 <h3 align="center">Crafting Career in Data Science</h3>
-<img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" align="right" height="280">
+<img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" align="right" height="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github158kujan&label=Profile%20views&color=0e75b6&style=flat" alt="github158kujan" /> </p>
 
