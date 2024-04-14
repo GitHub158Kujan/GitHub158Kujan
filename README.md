@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github158kujan&label=Profile%20views&color=0e75b6&style=flat" alt="github158kujan" /> </p>
 
 - 🌱 I’m currently learning **python**
+  
+- 👯 I’m looking to collaborate on **Python projects**
 
 - 📫 How to reach me **kujan851@gmail.com**
 
